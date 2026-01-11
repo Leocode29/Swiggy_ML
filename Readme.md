@@ -25,25 +25,20 @@ Python scripts/notebooks with documentation
 Streamlit application
 Final report summarizing approach, EDA, methodology, and insights
 
-6. Project Timeline (3 Days Learning Plan)
-Day 1: Data Cleaning & EDA
-Day 2: Preprocessing & Recommendation Engine
-Day 3: Streamlit App & Documentation
-
-7. Evaluation Metrics
+6. Evaluation Metrics
 Recommendation quality (relevance, diversity)
 Application usability (user-friendly interface)
 Data alignment (indices between datasets)
 
-8. Version Control
+7. Version Control
 Use Git for version tracking
 Maintain clean and organized repository
 
-9. Testing & Validation
+8. Testing & Validation
 Validate models using cross-validation
 Ensure reproducibility with random seeds
 
-10. Insights & Business Use Cases
+9. Insights & Business Use Cases
 Personalized recommendations
 Improved customer experience
 Market insights for targeted marketing
